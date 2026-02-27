@@ -4,7 +4,7 @@ A modern, fully-functional e-commerce admin dashboard built with React, Vite, an
 
 ## 🌐 Live Demo
 
-**[View Live Demo](https://YOUR_GITHUB_USERNAME.github.io/ecommerce-dashboard/)**
+**[View Live Demo](https://hamzahjal.github.io/react-ecommerce-dashboard/)**
 
 > 💡 **Demo Login:** Enter any username and password to access the dashboard (mock authentication)
 
@@ -66,7 +66,7 @@ ecommerce-dashboard/
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_GITHUB_USERNAME/ecommerce-dashboard.git
+git clone https://github.com/hamzahJal/react-ecommerce-dashboard.git
 cd ecommerce-dashboard
 
 # Install dependencies
@@ -95,7 +95,7 @@ npm run build
 **Edit `vite.config.js`** - Change the base path to match your repository name:
 
 ```javascript
-base: '/YOUR-REPO-NAME/'
+base: 'react-ecommerce-dashboard'
 ```
 
 #### 2. Push to GitHub
@@ -121,7 +121,7 @@ git push origin main
 #### 5. Access Your Live Site
 
 ```
-https://YOUR_GITHUB_USERNAME.github.io/YOUR-REPO-NAME/
+https://hamzahjal.github.io/react-ecommerce-dashboard/
 ```
 
 ---
@@ -185,10 +185,9 @@ _Add your screenshots here after deployment_
 ## 👤 Author
 
 **YOUR_NAME**
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- LinkedIn: [YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
-- Portfolio: [YOUR_WEBSITE](https://your-website.com)
-- Email: your.email@example.com
+- GitHub: https://github.com/hamzahJal
+- LinkedIn: https://www.linkedin.com/in/hamzahjalila/
+- Email: hamzahjalila@gmail.com
 
 ---
 
